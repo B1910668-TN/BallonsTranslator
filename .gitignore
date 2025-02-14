@@ -22,9 +22,7 @@ alphabet-all-*
 PortableGit
 test_dir
 tmp
-logs
 ballontrans_pylibs_win
-config/config.json
 localtmp*
 
 .vscode
