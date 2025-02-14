@@ -1,0 +1,15 @@
+[INFO] launch:main:228 - set display language to en_US
+[DEBUG] config_proj:save:280 - project saved to F:/JOB/Saka_Ejji/test/chapter_1\imgtrans_chapter_1.json
+[INFO] mainwindow:run_next_dir:1381 - translating F:\JOB\Saka_Ejji\test\chapter_1 ...
+[INFO] module_manager:on_finish_setdetector:897 - Text detector set to ctd
+[INFO] module_manager:on_finish_setocr:903 - OCR set to google_lens
+[INFO] module_manager:on_finish_settranslator:918 - Translator set to google
+[INFO] module_manager:on_finish_setinpainter:910 - Inpainter set to lama_large_512px
+[DEBUG] config_proj:save:280 - project saved to F:\JOB\Saka_Ejji\test\chapter_1\imgtrans_chapter_1.json
+[DEBUG] config_proj:save:280 - project saved to F:\JOB\Saka_Ejji\test\chapter_1\imgtrans_chapter_1.json
+[DEBUG] config_proj:save:280 - project saved to F:\JOB\Saka_Ejji\test\chapter_1\imgtrans_chapter_1.json
+[DEBUG] config_proj:save:280 - project saved to F:\JOB\Saka_Ejji\test\chapter_1\imgtrans_chapter_1.json
+[DEBUG] config_proj:save:280 - project saved to F:\JOB\Saka_Ejji\test\chapter_1\imgtrans_chapter_1.json
+[INFO] mainwindow:run_next_dir:1376 - finished translating all dirs, quit app...
+[INFO] config:save_config:218 - Config saved
+[DEBUG] config_proj:save:280 - project saved to F:\JOB\Saka_Ejji\test\chapter_1\imgtrans_chapter_1.json
